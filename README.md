@@ -14,7 +14,7 @@
 ## Descrição
   A iniciativa desenvolvida pelo grupo [Nome do Grupo], em cooperação com a [Nome da Empresa], propõe o aprimoramento da prática do tênis utilizando elementos de gamificação. 
   A arquitetura do sistema conta com sensores piezoelétricos acoplados a um microcontrolador Arduino Uno, encarregado de capturar os dados de impacto da bola, como a exatidão do ponto de contato e a magnitude da força exercida, e enviá-los a uma aplicação web. O sistema processa essas informações para gerar feedbacks ao jogador, disponibilizando um histórico de pontuação para acompanhamento do progresso individual e um ranking interativo para comparação com outros praticantes.
-## 🛠 Instalação
+
 
 </head>
 
