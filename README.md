@@ -7,7 +7,7 @@
 # Nome do grupo
 
 
-## Integrantes: <a href="https://github.com/brunosr9">Bruno Ribeiro </a>, <a href="https://github.com/Gume123">Guilherme Melo da Costa</a>, <a href="https://github.com/TexDotC0m">Dante Teixeira Santoma</a>, <a href="https://github.com/kauandotexe">Kauã Rocha</a>
+## Integrantes: <a href="https://github.com/brunosr9">Bruno Ribeiro </a>, <a href="https://github.com/Gume123">Guilherme Melo da Costa</a>, <a href="https://github.com/TexDotC0m">Dante Teixeira Santoma</a>, <a href="https://github.com/kauandotexe">Kauan Rocha</a>
 
 ## Professores Orientadores:<a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisboa</a>
 
