@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# NTennisHunt
+# TennisHunt
 
 
 ## Integrantes: <a href="https://github.com/brunosr9">Bruno Ribeiro </a>, <a href="https://github.com/Gume123">Guilherme Melo da Costa</a>, <a href="https://github.com/TexDotC0m">Dante Teixeira Santoma</a>, <a href="https://github.com/kauandotexe">Kauan Rocha</a>
