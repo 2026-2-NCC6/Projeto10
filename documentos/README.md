@@ -121,27 +121,32 @@ Legal, agora explique como os principais componentes do sistema funcionam em con
 | **Trechos ou entregas afetadas** | A entrega inteira foi afetada, porém foi feito uma revisão e alterações manuais antes do envio.|
 
 
-### Disciplina 2
+### Inovação e empreendedorismo
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
+| **Aluno(s) Responsável(veis)** |Bruno Da Silva Ribeiro |
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** | claude  |
+| **Versão/modelo** | sonet 5 |
+| **Disciplina / Trabalho** |Inovação e empreendedorismo|
+| **Finalidade de uso** | Utilizado para refinar o relatorio inicial |
+| ***Prompts* principais utilizados** | me ajuda a dar uma refinada nesse relatorio inicial e tambem
+eu queria que esse relatorio fosse em topicos |
+| **Trechos ou entregas afetadas** | Foi afetado o relatorio, com ele ficando em topicos |
 
-### Disciplina 3
+### Redes de computadores e Cibersegurança
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
+| **Aluno(s) Responsável(veis)** |Isadora Teixeira|
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** |claude |
+| **Versão/modelo** | sonet 5 |
+| **Disciplina / Trabalho** | Redes de computadores e Cibersegurança |
+| **Finalidade de uso** | Utilizei para poder saber um pouco mais sobre cada
+vulnerabilidade encontrada no nosso programa |
+| ***Prompts* principais utilizados** | De acordo com esse documento, me explique o que cada ID de
+vulnerabilidade significa e como podemos responder, quais
+ações serão necessárias e seu risco. |
+| **Trechos ou entregas afetadas** | A parte afetada foi apenas como a gente poderia responder
+cada uma vulnerabilidade.|
 
 ***Declaro que o uso acima descrito está em conformidade com o GUIA PARA O USO RESPONSÁVEL DE
 INTELIGÊNCIA ARTIFICIAL NA FECAP e que o conteúdo final é de minha plena responsabilidade
